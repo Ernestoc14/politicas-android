@@ -17,7 +17,7 @@ export default function Home() {
               Esta política de privacidad explica que no recopilamos ni
               utilizamos ningún tipo de información personal ni datos de uso.
             </p>
-            <p className="mb-12">
+            <p className="mb-6">
               No recopilamos ninguna información personal ni datos de uso a
               través de nuestra aplicación.
             </p>
