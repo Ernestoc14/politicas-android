@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className=" w-full flex flex-col items-center lg:w-10/12">
         <h1 className="text-3xl font-semibold mb-10 lg:mb-14 ">
-          Bienvenidos a DigestiLearn!
+          Bienvenidos a <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-500 via-purple-500 to-blue-500">DigestiLearn!</span>
         </h1>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 text-base lg:text-lg leading-relaxed">
           <div>
